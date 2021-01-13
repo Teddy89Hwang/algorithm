@@ -8,6 +8,11 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+/*
+ * 백준 15709번 정기검진
+ * https://www.acmicpc.net/problem/15709
+ */
+
 public class boj15709 {
 
 	static int N, M, B, K, Q;
