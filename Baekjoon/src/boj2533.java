@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 2533¹ø »çÈ¸¸Á ¼­ºñ½º(SNS)
+ * ë°±ì¤€ 2533ë²ˆ ì‚¬íšŒë§ ì„œë¹„ìŠ¤(SNS)
  * https://www.acmicpc.net/problem/2533
  */
 

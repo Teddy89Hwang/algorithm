@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 2465¹ø ÁÙ ¼¼¿ì±â
+ * ë°±ì¤€ 2465ë²ˆ ì¤„ ì„¸ìš°ê¸°
  * https://www.acmicpc.net/problem/2465
  */
 

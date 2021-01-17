@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 4195¹ø Ä£±¸ ³×Æ®¿öÅ©
+ * ë°±ì¤€ 4195ë²ˆ ì¹œêµ¬ ë„¤íŠ¸ì›Œí¬
  * https://www.acmicpc.net/problem/4195
  */
 

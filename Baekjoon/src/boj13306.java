@@ -7,7 +7,7 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 13306¹ø Æ®¸®
+ * ë°±ì¤€ 13306ë²ˆ íŠ¸ë¦¬
  * https://www.acmicpc.net/problem/13306
  */
 

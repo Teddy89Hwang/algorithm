@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 7578¹ø °øÀå
+ * ë°±ì¤€ 7578ë²ˆ ê³µì¥
  * https://www.acmicpc.net/problem/7578
  */
 

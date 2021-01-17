@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 6497¹ø Àü·Â³­
+ * ë°±ì¤€ 6497ë²ˆ ì „ë ¥ë‚œ
  * https://www.acmicpc.net/problem/6497
  */
 
@@ -52,7 +52,7 @@ public class boj6497 {
 
 			edgeList = new ArrayList<>();
 
-			int cost = 0; // ÀüÃ¼ ºñ¿ë
+			int cost = 0; // ï¿½ï¿½Ã¼ ï¿½ï¿½ï¿½
 			for (int i = 0; i < N; i++) {
 				st = new StringTokenizer(br.readLine());
 				int x = Integer.parseInt(st.nextToken());

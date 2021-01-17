@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 2096¹ø ³»·Á°¡±â
+ * ë°±ì¤€ 2096ë²ˆ ë‚´ë ¤ê°€ê¸°
  * https://www.acmicpc.net/problem/2096
  */
 

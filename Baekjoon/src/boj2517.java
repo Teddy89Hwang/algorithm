@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 2517¹ø ´Þ¸®±â
+ * ë°±ì¤€ 2517ë²ˆ ë‹¬ë¦¬ê¸°
  * https://www.acmicpc.net/problem/2517
  */
 

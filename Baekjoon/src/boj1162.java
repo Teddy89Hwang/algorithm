@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 1162¹ø µµ·ÎÆ÷Àå
+ * ë°±ì¤€ 1162ë²ˆ ë„ë¡œí¬ì¥
  * https://www.acmicpc.net/problem/1162
  */
 

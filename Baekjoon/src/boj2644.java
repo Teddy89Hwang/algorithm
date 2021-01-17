@@ -10,7 +10,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 2644¹ø ÃÌ¼ö°è»ê
+ * ë°±ì¤€ 2644ë²ˆ ì´Œìˆ˜ê³„ì‚°
  * https://www.acmicpc.net/problem/2644
  */
 

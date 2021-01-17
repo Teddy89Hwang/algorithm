@@ -11,7 +11,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 17131¹ø ¿©¿ì°¡ Á¤º¸¼¶¿¡ ¿Ã¶ó¿Â ÀÌÀ¯
+ * ë°±ì¤€ 17131ë²ˆ ì—¬ìš°ê°€ ì •ë³´ì„¬ì— ì˜¬ë¼ì˜¨ ì´ìœ 
  * https://www.acmicpc.net/problem/17131
  */
 

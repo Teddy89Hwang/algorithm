@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.StringTokenizer;
 
 /*
- * πÈ¡ÿ 1321π¯ ±∫¿Œ
+ * Î∞±Ï§Ä 1321Î≤à Íµ∞Ïù∏
  * https://www.acmicpc.net/problem/1321
  */
 

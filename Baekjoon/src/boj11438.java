@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 /*
- * ¹éÁØ 11438¹ø LCA 2
+ * ë°±ì¤€ 11438ë²ˆ LCA 2
  * https://www.acmicpc.net/problem/11438
  */
 

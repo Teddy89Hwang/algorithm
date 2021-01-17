@@ -9,10 +9,9 @@ import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 /*
- * ¹éÁØ 14938¹ø ¼­°­±×¶ó¿îµå
+ * ë°±ì¤€ 14938ë²ˆ ì„œê°•ê·¸ë¼ìš´ë“œ
  * https://www.acmicpc.net/problem/14938
  */
-
 
 public class boj14938 {
 
