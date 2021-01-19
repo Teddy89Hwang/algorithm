@@ -7,10 +7,6 @@ import java.util.HashMap;
 
 public class leetCode290 {
 
-	public static void main(String[] args) {
-		System.out.println(wordPattern("abba", "dog dog dog dog"));
-	}
-
     public static boolean wordPattern(String pattern, String s) {
     	HashMap<String, Character> map = new HashMap<>();
     	String[] word = new String[26];
