@@ -6,6 +6,12 @@ import java.util.HashMap;
  */
 
 public class leetCode290 {
+	
+	public static void main(String[] args) {
+		String pattern = "abba";
+		String s = "dog cat cat dog";
+		System.out.println(wordPattern(pattern, s));
+	}
 
     public static boolean wordPattern(String pattern, String s) {
     	HashMap<String, Character> map = new HashMap<>();
