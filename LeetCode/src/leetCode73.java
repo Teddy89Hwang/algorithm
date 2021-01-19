@@ -1,6 +1,6 @@
 /*
  * LeetCode 73. Set Matrix Zeroes
- * https://leetcode.com/problems/3sum/
+ * https://leetcode.com/problems/set-matrix-zeroes/
  */
 
 public class leetCode73 {
